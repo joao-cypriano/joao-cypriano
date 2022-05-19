@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joao-cypriano
 - 👀 I’m interested in working as a Data Engineer with Python
-- 🌱 I’m currently learning PySpark and ETL's
+- 🌱 I’m currently learning Azure Databricks
 - 📫 Reach me using my email: jvcypriano@gmail.com or my Linkedin: https://www.linkedin.com/in/jvcypriano/
 
 <!---
