@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joao-cypriano
-- 👀 I work as a Data Engineer at NEORIS Brazil
+- 👀 I work as a Senior Data Engineer at Closer IT
 - 🌱 I’m currently learning Apache Kafka
 - 📫 Reach me using my email: jvcypriano@gmail.com or my Linkedin: https://www.linkedin.com/in/jvcypriano/
 
